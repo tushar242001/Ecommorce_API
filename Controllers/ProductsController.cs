@@ -13,7 +13,7 @@ namespace WebApplication1.Controllers
        [HttpGet]
        public IActionResult GetByCategory()
         {
-            return Ok("Hello World");
+            return Ok("Hello World of Ecommerce");
         }
     }
 }
